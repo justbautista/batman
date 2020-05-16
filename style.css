@@ -25,7 +25,7 @@ html, body {
         flex-direction: column;
         align-items: center;
         height: 100vh;
-        background-image: url(../img/batman-landing.jpg);
+        background-image: url(img/batman-landing.jpg);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: top;
@@ -111,7 +111,7 @@ html, body {
         justify-content: space-around;
         padding: 50px 0px;
         height: 600px;
-        background: url(../img/ally-background.jpg);
+        background: url(img/ally-background.jpg);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: top;
@@ -196,7 +196,7 @@ html, body {
         height: 600px;
         align-items: center;
         padding: 50px 0px;
-        background: url(../img/villain-background.jpeg);
+        background: url(img/villain-background.jpeg);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: top;
@@ -462,7 +462,7 @@ html, body {
         justify-content: center;
         align-items: center;
         padding: 100px 0px;
-        background: url(../img/quote-background.jpg);
+        background: url(img/quote-background.jpg);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: top;
