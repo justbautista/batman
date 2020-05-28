@@ -4,19 +4,7 @@ html, body {
     width: 100%;
     overflow-x: hidden;
     font-family: 'Titillium Web', sans-serif;
-}
-
-::-webkit-scrollbar {
-    width: 5px;
-}
-
-::-webkit-scrollbar-track {
-    background: rgba(0, 0, 0, 0.1);
-} 
-
-::-webkit-scrollbar-thumb {
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 4px;
+    scroll-behavior: smooth;
 }
 
 /* top-container...start*/
